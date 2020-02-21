@@ -6,7 +6,7 @@ A fully automated way to build Docker images and boot up a Spark cluster. Basic 
 
 To increase the number of workers, you simply have to modify `docker-compose.yml`
 
-To change the hardware settings of the workers, modify `env\
+To change the hardware settings of the workers, modify `env\spark-worker-env.sh`
 
 ## Requirements
 * Docker for Windows with Linux Containers
